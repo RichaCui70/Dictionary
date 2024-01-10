@@ -1,0 +1,112 @@
+    1	Amla 	Phyllanthus Emblica
+    2	Apple 	Pyrus malus
+    3	Apricot 	Prunus armeniaca
+    4	Asparagus 	 Asparagus officinalis
+    5	Avocado 	Persea Americana
+    6	Bamboo 	Bamboosa aridinarifolia
+    7	Banana 	Musa Paradisicum
+    8	Banyan 	Ficus benghalensis
+    9	Bitter Gourds 	Momordica Charantia
+   10	Black Gram 	Plasoes mungo
+   11	Black Pepper 	Piper nigrum
+   12	Blackberry 	Rubus fruticosus
+   13	Blue Berry 	Vaccinium cyanococcus
+   14	Brinjal 	Solanum melongena
+   15	Broccoli 	Brassica oleracea italica group
+   16	Broccoli rabe 	Brassica rapus ruvo group
+   17	Cabbage 	Brassica oleracea var. capitata
+   18	Calabash 	Lagenaria siceraria
+   19	Cantaloupe (Kharbuja) 	Cucumis melo
+   20	Capsicum 	Capsicum frutescens
+   21	Carrot 	Daucus carota subsp.  sativus
+   22	Cassava 	Manihot esculenta
+   23	Cauliflower 	Brassica oleracea
+   24	Cherry 	Prunus avium
+   25	Chilli 	Capsicum spp.
+   26	Chinese cabbage 	Brassica rapus chinesesis group
+   27	Chives 	Allium schoenoprasum
+   28	Clove 	Syzygium aromaticum
+   29	Cluster bean 	Cyamopsis tetragonoloba
+   30	Coccinia 	Coccinia grandis Voigt, Coccinia cordifolia, Coccinia indica
+   31	Colocasia / Taro 	Colocasia esculenta
+   32	Common bean 	Phaseolus vulgaris
+   33	Coriander 	Coriandrum sativum
+   34	Cotton 	Gossypium herbaceum
+   35	Cow pea 	Vigna unguiculata
+   36	Cucumber 	Cucumis sativus
+   37	Curry plant 	Murraya koenigii
+   38	Curry plant (Leaves) 	Murraya koenigii
+   39	Dragon fruit 	Hylocereus undutus
+   40	Drumstick 	Moringa oleifera
+   41	Eggplant, Brinjal 	Solanum melongena
+   42	Elephant foot Yam 	Amorphophallus paeoniifolius
+   43	Fig 	Ficus carica
+   44	Garlic 	Allium sativum
+   45	Ginger 	Zingiber officinale
+   46	Gooseberry 	Ribes uva-crispa
+   47	Grapes 	Vitis vinifera
+   48	Green Gram 	Phaseolies aulicus
+   49	Guava 	Psidium guava
+   50	Honey dew (Melon) 	Cucumis melo
+   51	Honeydew 	Cucumis melo
+   52	Horse Gram 	Dolichos biffoeus
+   53	Hyacinth bean 	Lablab purpureus
+   54	Jack fruit 	Artocarpus integra
+   55	Jowar 	Sorghum vulgare
+   56	Kiwi fruit 	Actinidia deliciosa
+   57	Leek 	Allium porrum
+   58	Lemon 	Citrus limonium
+   59	Lettuce 	Lactuca sativa
+   60	Lima bean 	Phaseolus limensis
+   61	Lime 	Citrus latifolia
+   62	Luffa 	Luffa aegyptiaca
+   63	Lychee (Lichi) 	Litchi chinensis
+   64	Maize 	Zea mays
+   65	Mandarin Orange 	Citrus reticulata
+   66	Mango 	Mangifera indica
+   67	Mint 	Mentha arvensis
+   68	Mint (Pudina) 	Mentha arvensis
+   69	Money Plant 	Epipremnum aureum
+   70	Mulberry 	Genus: Morus
+   71	Nectarine (Peach) 	Prunus persica
+   72	Neem 	Azadirachta indica
+   73	Okra, Lady Finger 	Abelmoschus esculentus
+   74	Onion 	Allium cepa
+   75	Orange 	Citrus aurantium
+   76	Papaya 	Carica papaya
+   77	Parsley 	Petroselinum crispum
+   78	Passionfruit 	Passiflora edulis
+   79	Pea 	Pisum sativum
+   80	Peanut, Groundnut 	Arachis hypogaea
+   81	Pear 	Pyrus communis
+   82	Persimmon 	Diospyros kaki
+   83	Pineapple 	Ananas comosus
+   84	Plum 	Prunus domestica
+   85	Pointed gourd 	Trichosanthes dioica
+   86	Pomegranate 	Punica granatum
+   87	Potato 	Solanum tubersum
+   88	Prickly pear 	Opuntia stricta
+   89	Pumpkin 	Cucurbita maxima
+   90	Radish 	Raphanus sativus
+   91	Raspberry 	Rubus idaeobatus
+   92	Red Gram 	Cajanus cajan
+   93	Redcurrant 	Ribes rubrum
+   94	Rutabaga 	Brassica napus
+   95	Sacred fig (Peepal) 	Ficus religiosa Linn
+   96	Sandalwood 	Santalum album
+   97	Snake gourd 	Trichosanthes cucumerina
+   98	Soybean 	Glycine max
+   99	Spinach 	Spinacia oleracea
+  100	Spiny gourd 	Momordica dioica
+  101	Tobacco 	Nicotina tobaccum
+  102	Tomato 	Solanum lycopersicum L.
+  103	Tulsi 	Ocimum sanctum
+  104	Turmeric 	Curcuma longa
+  105	Turnip 	Brassica rapus
+  106	Watermelon 	Citrullus vulgaris
+  107	Wax gourd 	Benincasa hispida
+  108	Welsh onion 	Allium fistulosum
+  109	Wheat 	Triticum aestivum
+  110	Wild carrot 	Daucus carota
+  111	Wild yam 	Dioscorea villosa
+  112	Winged bean 	Psophocarpus Tetragonolobus

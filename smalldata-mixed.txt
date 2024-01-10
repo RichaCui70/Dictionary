@@ -1,0 +1,11 @@
+1	Amla 	Phyllanthus Emblica
+Apple 	Pyrus malus
+3	Apricot 	Prunus armeniaca
+Asparagus 	 Asparagus officinalis
+5	Avocado 	Persea Americana
+Bamboo 	Bamboosa aridinarifolia
+7	Banana 	Musa Paradisicum
+Banyan 	Ficus benghalensis
+9	Bitter Gourds 	Momordica Charantia
+Black Gram 	Plasoes mungo
+11	Black Pepper 	Piper nigrum

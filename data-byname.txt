@@ -1,0 +1,112 @@
+Amla 	Phyllanthus Emblica
+Apple 	Pyrus malus
+Apricot 	Prunus armeniaca
+Asparagus 	 Asparagus officinalis
+Avocado 	Persea Americana
+Bamboo 	Bamboosa aridinarifolia
+Banana 	Musa Paradisicum
+Banyan 	Ficus benghalensis
+Bitter Gourds 	Momordica Charantia
+Black Gram 	Plasoes mungo
+Black Pepper 	Piper nigrum
+Blackberry 	Rubus fruticosus
+Blue Berry 	Vaccinium cyanococcus
+Brinjal 	Solanum melongena
+Broccoli 	Brassica oleracea italica group
+Broccoli rabe 	Brassica rapus ruvo group
+Cabbage 	Brassica oleracea var. capitata
+Calabash 	Lagenaria siceraria
+Cantaloupe (Kharbuja) 	Cucumis melo
+Capsicum 	Capsicum frutescens
+Carrot 	Daucus carota subsp.  sativus
+Cassava 	Manihot esculenta
+Cauliflower 	Brassica oleracea
+Cherry 	Prunus avium
+Chilli 	Capsicum spp.
+Chinese cabbage 	Brassica rapus chinesesis group
+Chives 	Allium schoenoprasum
+Clove 	Syzygium aromaticum
+Cluster bean 	Cyamopsis tetragonoloba
+Coccinia 	Coccinia grandis Voigt, Coccinia cordifolia, Coccinia indica
+Colocasia / Taro 	Colocasia esculenta
+Common bean 	Phaseolus vulgaris
+Coriander 	Coriandrum sativum
+Cotton 	Gossypium herbaceum
+Cow pea 	Vigna unguiculata
+Cucumber 	Cucumis sativus
+Curry plant 	Murraya koenigii
+Curry plant (Leaves) 	Murraya koenigii
+Dragon fruit 	Hylocereus undutus
+Drumstick 	Moringa oleifera
+Eggplant, Brinjal 	Solanum melongena
+Elephant foot Yam 	Amorphophallus paeoniifolius
+Fig 	Ficus carica
+Garlic 	Allium sativum
+Ginger 	Zingiber officinale
+Gooseberry 	Ribes uva-crispa
+Grapes 	Vitis vinifera
+Green Gram 	Phaseolies aulicus
+Guava 	Psidium guava
+Honey dew (Melon) 	Cucumis melo
+Honeydew 	Cucumis melo
+Horse Gram 	Dolichos biffoeus
+Hyacinth bean 	Lablab purpureus
+Jack fruit 	Artocarpus integra
+Jowar 	Sorghum vulgare
+Kiwi fruit 	Actinidia deliciosa
+Leek 	Allium porrum
+Lemon 	Citrus limonium
+Lettuce 	Lactuca sativa
+Lima bean 	Phaseolus limensis
+Lime 	Citrus latifolia
+Luffa 	Luffa aegyptiaca
+Lychee (Lichi) 	Litchi chinensis
+Maize 	Zea mays
+Mandarin Orange 	Citrus reticulata
+Mango 	Mangifera indica
+Mint 	Mentha arvensis
+Mint (Pudina) 	Mentha arvensis
+Money Plant 	Epipremnum aureum
+Mulberry 	Genus: Morus
+Nectarine (Peach) 	Prunus persica
+Neem 	Azadirachta indica
+Okra, Lady Finger 	Abelmoschus esculentus
+Onion 	Allium cepa
+Orange 	Citrus aurantium
+Papaya 	Carica papaya
+Parsley 	Petroselinum crispum
+Passionfruit 	Passiflora edulis
+Pea 	Pisum sativum
+Peanut, Groundnut 	Arachis hypogaea
+Pear 	Pyrus communis
+Persimmon 	Diospyros kaki
+Pineapple 	Ananas comosus
+Plum 	Prunus domestica
+Pointed gourd 	Trichosanthes dioica
+Pomegranate 	Punica granatum
+Potato 	Solanum tubersum
+Prickly pear 	Opuntia stricta
+Pumpkin 	Cucurbita maxima
+Radish 	Raphanus sativus
+Raspberry 	Rubus idaeobatus
+Red Gram 	Cajanus cajan
+Redcurrant 	Ribes rubrum
+Rutabaga 	Brassica napus
+Sacred fig (Peepal) 	Ficus religiosa Linn
+Sandalwood 	Santalum album
+Snake gourd 	Trichosanthes cucumerina
+Soybean 	Glycine max
+Spinach 	Spinacia oleracea
+Spiny gourd 	Momordica dioica
+Tobacco 	Nicotina tobaccum
+Tomato 	Solanum lycopersicum L.
+Tulsi 	Ocimum sanctum
+Turmeric 	Curcuma longa
+Turnip 	Brassica rapus
+Watermelon 	Citrullus vulgaris
+Wax gourd 	Benincasa hispida
+Welsh onion 	Allium fistulosum
+Wheat 	Triticum aestivum
+Wild carrot 	Daucus carota
+Wild yam 	Dioscorea villosa
+Winged bean 	Psophocarpus Tetragonolobus
